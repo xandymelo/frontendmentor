@@ -1,5 +1,5 @@
 # Recipe Page 
-Este projeto é uma implementação de uma página de receitas, baseada no design fornecido pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). O objetivo é praticar habilidades de desenvolvimento front-end, incluindo HTML, CSS (utilizando Tailwind CSS) e possivelmente JavaScript. Para ver o resultado, basta clicar [aqui](https://xandymelo.github.io/frontendmentor/)
+Este projeto é uma implementação de uma página de receitas, baseada no design fornecido pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). O objetivo é praticar habilidades de desenvolvimento front-end, incluindo HTML, CSS (utilizando Tailwind CSS). Para ver o resultado, basta clicar [aqui.](https://xandymelo.github.io/frontendmentor/)
 
 ## Estrutura de Arquivos
 Os arquivos fornecidos pelo Frontend Mentor estão localizados na pasta recipe-page-main. A estrutura de arquivos pode incluir:
